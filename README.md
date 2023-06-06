@@ -1,4 +1,11 @@
 # Kelompok_15_PBO_UAS_membuat_Password_Dengan_Menggunakan_Python
+Nama Anggota :
+1. Rana Qonitah Helida (G1A022017)
+2. Arya Mulahernawan (G1A022029)
+3. David Thimotius Rarung (G1A022045)
+
+
+
 Program di atas mengimplementasikan konsep OOP (Object-Oriented Programming) dalam bahasa Python. Berikut adalah penjelasan tentang implementasi OOP dalam program tersebut:
 
 Kelas PembuatPassword:
